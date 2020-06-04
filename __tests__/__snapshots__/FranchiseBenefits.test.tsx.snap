@@ -1,0 +1,310 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FranchiseBenefits renders correctly 1`] = `
+<section
+  className="FranchiseBenefitsstyles__Section-sc-5ddyk0-0 hyteHE"
+>
+  <div
+    className="FranchiseBenefitsstyles__Container-sc-5ddyk0-1 SBmaB"
+  >
+    <div
+      className="FranchiseBenefitsstyles__TitleWrapper-sc-5ddyk0-2 fhePqg"
+    >
+      <div
+        className="globalstyles__Text-sc-1nc69wi-9 bpjwgw"
+        color="blue-dark"
+        fontWeight="bold"
+        size="4xl"
+      >
+        Benefits Plus
+      </div>
+    </div>
+    <div
+      className="FranchiseBenefitsstyles__FranchiseWrapper-sc-5ddyk0-3 bNCjQl"
+    >
+      <div
+        className="FranchiseBenefitsstyles__FranchiseItem-sc-5ddyk0-4 egYqbG"
+      >
+        <div
+          className="FranchiseBenefitCardstyles__CardContainer-y007i8-0 kNXdXi"
+        >
+          <div
+            className="FranchiseBenefitCardstyles__ImgWrapper-y007i8-1 kIJdcD"
+          >
+            <img
+              className="FranchiseBenefitCardstyles__Img-y007i8-2 fEUdpM"
+              src="/example/franchise/nissan.png"
+            />
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__NameWrapper-y007i8-3 irabZy"
+          >
+            <div
+              className="globalstyles__Text-sc-1nc69wi-9 ipNXCF"
+              color="orange"
+              fontWeight="semibold"
+              size="4xl"
+            >
+              Nissan
+            </div>
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__DetailWrapper-y007i8-4 dStFay"
+          >
+            <div
+              className="FranchiseBenefitCardstyles__Detail-y007i8-5 PltLR"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nibh eu nibh suscipit, at elementum nunc fermentum.
+            </div>
+            <div
+              className="FranchiseBenefitCardstyles__ButtonWrapper-y007i8-6 kZJwYJ"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 FranchiseBenefitCardstyles__Button-y007i8-7 hkrSlk"
+                href="#"
+              >
+                View benefit
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="FranchiseBenefitsstyles__FranchiseItem-sc-5ddyk0-4 egYqbG"
+      >
+        <div
+          className="FranchiseBenefitCardstyles__CardContainer-y007i8-0 kNXdXi"
+        >
+          <div
+            className="FranchiseBenefitCardstyles__ImgWrapper-y007i8-1 kIJdcD"
+          >
+            <img
+              className="FranchiseBenefitCardstyles__Img-y007i8-2 fEUdpM"
+              src="/example/franchise/medibank.png"
+            />
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__NameWrapper-y007i8-3 irabZy"
+          >
+            <div
+              className="globalstyles__Text-sc-1nc69wi-9 ipNXCF"
+              color="orange"
+              fontWeight="semibold"
+              size="4xl"
+            >
+              Medibank
+            </div>
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__DetailWrapper-y007i8-4 dStFay"
+          >
+            <div
+              className="FranchiseBenefitCardstyles__Detail-y007i8-5 PltLR"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nibh eu nibh suscipit, at elementum nunc fermentum.
+            </div>
+            <div
+              className="FranchiseBenefitCardstyles__ButtonWrapper-y007i8-6 kZJwYJ"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 FranchiseBenefitCardstyles__Button-y007i8-7 hkrSlk"
+                href="#"
+              >
+                View benefit
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="FranchiseBenefitsstyles__FranchiseItem-sc-5ddyk0-4 egYqbG"
+      >
+        <div
+          className="FranchiseBenefitCardstyles__CardContainer-y007i8-0 kNXdXi"
+        >
+          <div
+            className="FranchiseBenefitCardstyles__ImgWrapper-y007i8-1 kIJdcD"
+          >
+            <img
+              className="FranchiseBenefitCardstyles__Img-y007i8-2 fEUdpM"
+              src="/example/franchise/LTrent.png"
+            />
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__NameWrapper-y007i8-3 irabZy"
+          >
+            <div
+              className="globalstyles__Text-sc-1nc69wi-9 ipNXCF"
+              color="orange"
+              fontWeight="semibold"
+              size="4xl"
+            >
+              LTrent
+            </div>
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__DetailWrapper-y007i8-4 dStFay"
+          >
+            <div
+              className="FranchiseBenefitCardstyles__Detail-y007i8-5 PltLR"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nibh eu nibh suscipit, at elementum nunc fermentum.
+            </div>
+            <div
+              className="FranchiseBenefitCardstyles__ButtonWrapper-y007i8-6 kZJwYJ"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 FranchiseBenefitCardstyles__Button-y007i8-7 hkrSlk"
+                href="#"
+              >
+                View benefit
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="FranchiseBenefitsstyles__FranchiseItem-sc-5ddyk0-4 egYqbG"
+      >
+        <div
+          className="FranchiseBenefitCardstyles__CardContainer-y007i8-0 kNXdXi"
+        >
+          <div
+            className="FranchiseBenefitCardstyles__ImgWrapper-y007i8-1 kIJdcD"
+          >
+            <img
+              className="FranchiseBenefitCardstyles__Img-y007i8-2 fEUdpM"
+              src="/example/franchise/muscleChef.png"
+            />
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__NameWrapper-y007i8-3 irabZy"
+          >
+            <div
+              className="globalstyles__Text-sc-1nc69wi-9 ipNXCF"
+              color="orange"
+              fontWeight="semibold"
+              size="4xl"
+            >
+              My Muscle Chef
+            </div>
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__DetailWrapper-y007i8-4 dStFay"
+          >
+            <div
+              className="FranchiseBenefitCardstyles__Detail-y007i8-5 PltLR"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nibh eu nibh suscipit, at elementum nunc fermentum.
+            </div>
+            <div
+              className="FranchiseBenefitCardstyles__ButtonWrapper-y007i8-6 kZJwYJ"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 FranchiseBenefitCardstyles__Button-y007i8-7 hkrSlk"
+                href="#"
+              >
+                View benefit
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="FranchiseBenefitsstyles__FranchiseItem-sc-5ddyk0-4 egYqbG"
+      >
+        <div
+          className="FranchiseBenefitCardstyles__CardContainer-y007i8-0 kNXdXi"
+        >
+          <div
+            className="FranchiseBenefitCardstyles__ImgWrapper-y007i8-1 kIJdcD"
+          >
+            <img
+              className="FranchiseBenefitCardstyles__Img-y007i8-2 fEUdpM"
+              src="/example/franchise/alliedFitness.png"
+            />
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__NameWrapper-y007i8-3 irabZy"
+          >
+            <div
+              className="globalstyles__Text-sc-1nc69wi-9 ipNXCF"
+              color="orange"
+              fontWeight="semibold"
+              size="4xl"
+            >
+              Allied Fitness
+            </div>
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__DetailWrapper-y007i8-4 dStFay"
+          >
+            <div
+              className="FranchiseBenefitCardstyles__Detail-y007i8-5 PltLR"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nibh eu nibh suscipit, at elementum nunc fermentum.
+            </div>
+            <div
+              className="FranchiseBenefitCardstyles__ButtonWrapper-y007i8-6 kZJwYJ"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 FranchiseBenefitCardstyles__Button-y007i8-7 hkrSlk"
+                href="#"
+              >
+                View benefit
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="FranchiseBenefitsstyles__FranchiseItem-sc-5ddyk0-4 egYqbG"
+      >
+        <div
+          className="FranchiseBenefitCardstyles__CardContainer-y007i8-0 kNXdXi"
+        >
+          <div
+            className="FranchiseBenefitCardstyles__ImgWrapper-y007i8-1 kIJdcD"
+          >
+            <img
+              className="FranchiseBenefitCardstyles__Img-y007i8-2 fEUdpM"
+              src="/example/franchise/TM_Logo.png"
+            />
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__NameWrapper-y007i8-3 irabZy"
+          >
+            <div
+              className="globalstyles__Text-sc-1nc69wi-9 ipNXCF"
+              color="orange"
+              fontWeight="semibold"
+              size="4xl"
+            >
+              Trend Micro
+            </div>
+          </div>
+          <div
+            className="FranchiseBenefitCardstyles__DetailWrapper-y007i8-4 dStFay"
+          >
+            <div
+              className="FranchiseBenefitCardstyles__Detail-y007i8-5 PltLR"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin placerat nibh eu nibh suscipit, at elementum nunc fermentum.
+            </div>
+            <div
+              className="FranchiseBenefitCardstyles__ButtonWrapper-y007i8-6 kZJwYJ"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 FranchiseBenefitCardstyles__Button-y007i8-7 hkrSlk"
+                href="#"
+              >
+                View benefit
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;

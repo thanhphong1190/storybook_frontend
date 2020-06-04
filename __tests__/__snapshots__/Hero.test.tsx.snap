@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero renders correctly 1`] = `
+<section
+  className="Herostyles__Section-sc-22q2rb-0 cMQfGd"
+>
+  <div
+    className="Herostyles__OverlayWrapper-sc-22q2rb-1 gjnMTt bg-opacity-50 bg-black"
+  >
+    <div
+      className="Herostyles__Container-sc-22q2rb-2 bbtUmL"
+    >
+      <div
+        className="Herostyles__ContentWrapper-sc-22q2rb-6 kvbIJy"
+      >
+        <div
+          className="globalstyles__Text-sc-1nc69wi-9 Herostyles__HeroText-sc-22q2rb-4 kXHtUq"
+          color="white"
+          fontWeight="bold"
+          size="6xl"
+        >
+          FREE 3 DAY TRIAL
+        </div>
+        <div
+          className="globalstyles__Text-sc-1nc69wi-9 Herostyles__HeroText-sc-22q2rb-4 kXHtUq"
+          color="white"
+          fontWeight="bold"
+          size="6xl"
+        >
+          IT'S GYM TIME
+        </div>
+        <div
+          className="globalstyles__Text-sc-1nc69wi-9 Herostyles__HeroText-sc-22q2rb-4 cGjkKc"
+          color="white"
+          fontWeight="bold"
+        >
+          FREE 3 DAY TRIAL IT'S GYM TIME
+        </div>
+        <div
+          className="Herostyles__ButtonGroup-sc-22q2rb-3 gyLfoA"
+        >
+          <a
+            action="#"
+            className="globalstyles__ButtonLink-sc-1nc69wi-10 Herostyles__HeroButtonLink-sc-22q2rb-5 bSvIfU"
+            color="orange"
+            label="TRY NOW!"
+          >
+            TRY NOW!
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;

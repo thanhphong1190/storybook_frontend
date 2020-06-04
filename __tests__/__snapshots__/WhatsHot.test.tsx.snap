@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`What's hot renders correctly 1`] = `
+<section
+  className="WhatsHotstyles__Section-sc-18tlt1v-0 ekxmZk"
+>
+  <div
+    className="WhatsHotstyles__Container-sc-18tlt1v-1 hkpLAf"
+  >
+    <div
+      className="WhatsHotstyles__TitleWrapper-sc-18tlt1v-2 Rhydw"
+    >
+      <span
+        className="WhatsHotstyles__Title-sc-18tlt1v-3 gVfYdg"
+      >
+        What's hot
+      </span>
+      <hr
+        className="globalstyles__Underline-sc-1nc69wi-8 dVEiXG"
+      />
+    </div>
+    <div
+      className="WhatsHotstyles__BlocksGroup-sc-18tlt1v-4 fvVtYQ"
+    >
+      <div
+        className="WhatsHotstyles__Blocks-sc-18tlt1v-5 lgmXkv"
+      >
+        <div
+          className="Cardsstyles__Wrapper-m8f1ab-0 kRJueY"
+          style={
+            Object {
+              "backgroundImage": "url('/example/Social-card-article-bg.png')",
+            }
+          }
+        >
+          <div
+            className="Cardsstyles__Container-m8f1ab-1 ckTBHf bg-black bg-opacity-50"
+          >
+            <div
+              className="Cardsstyles__CardContent-m8f1ab-2 iMRiqk"
+            >
+              <div
+                className="Cardsstyles__Title-m8f1ab-5 kGFLhg"
+                color="white"
+              >
+                In fitness by Jasmine Green
+              </div>
+              <div
+                className="Cardsstyles__Title-m8f1ab-5 jtHYdt"
+                color="white"
+                size="2xl"
+              >
+                3 reason to add strength training
+              </div>
+            </div>
+            <div
+              className="Cardsstyles__CardBottom-m8f1ab-4 gMgdeL"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 gEZLzW"
+                color="orange"
+                href="#"
+              >
+                Read article
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="Cardsstyles__Wrapper-m8f1ab-0 kRJueY"
+          style={
+            Object {
+              "backgroundImage": "url('/example/Social-card-article-bg.png')",
+            }
+          }
+        >
+          <div
+            className="Cardsstyles__Container-m8f1ab-1 ckTBHf bg-black bg-opacity-50"
+          >
+            <div
+              className="Cardsstyles__CardContent-m8f1ab-2 iMRiqk"
+            >
+              <div
+                className="Cardsstyles__Title-m8f1ab-5 kGFLhg"
+                color="white"
+              >
+                In fitness by Jasmine Green
+              </div>
+              <div
+                className="Cardsstyles__Title-m8f1ab-5 jtHYdt"
+                color="white"
+                size="2xl"
+              >
+                3 reason to add strength training
+              </div>
+            </div>
+            <div
+              className="Cardsstyles__CardBottom-m8f1ab-4 gMgdeL"
+            >
+              <a
+                className="Button__ButtonLink-lxhj0a-1 gEZLzW"
+                color="orange"
+                href="#"
+              >
+                Read article
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="Cardsstyles__Wrapper-m8f1ab-0 kRJueY"
+        >
+          <div
+            className="Cardsstyles__Container-m8f1ab-1 iofuKM"
+          >
+            <div
+              className="Cardsstyles__Title-m8f1ab-5 jzatRZ"
+              color="white"
+              size="4xl"
+            >
+              Follow Us
+            </div>
+            <div
+              className="Cardsstyles__CardIconsContent-m8f1ab-3 csmCyB"
+            >
+              <a
+                className="Cardsstyles__IconWrapper-m8f1ab-6 cqnHue"
+                href="#"
+              >
+                <span
+                  className="Iconstyles__StyledSVGIcon-sc-1cwmlu4-0 evNslP undefined"
+                  clickable={true}
+                />
+              </a>
+              <a
+                className="Cardsstyles__IconWrapper-m8f1ab-6 kMZtQA"
+                href="#"
+              >
+                <span
+                  className="Iconstyles__StyledSVGIcon-sc-1cwmlu4-0 evNslP undefined"
+                  clickable={true}
+                />
+              </a>
+              <a
+                className="Cardsstyles__IconWrapper-m8f1ab-6 cqnHue"
+                href="#"
+              >
+                <span
+                  className="Iconstyles__StyledSVGIcon-sc-1cwmlu4-0 evNslP undefined"
+                  clickable={true}
+                />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="WhatsHotstyles__CenteredButton-sc-18tlt1v-6 eOGWiF"
+    >
+      <a
+        className="Button__ButtonLink-lxhj0a-1 eZiind py-4"
+        color="blue"
+        href="#"
+      >
+        Access to the blog
+      </a>
+    </div>
+  </div>
+</section>
+`;

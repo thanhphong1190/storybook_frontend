@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="KeyMessagestyled__KeyMessageWrapper-d162d0-0 hUwYYX"
+>
+  <img
+    className="KeyMessagestyled__KeyMessageImage-d162d0-1 ipnZsx"
+    src="/example/keyMsg-example.png"
+  />
+  <div
+    className="KeyMessagestyled__KeyMessageInner-d162d0-2 dJnzAL"
+  >
+    <div
+      className="KeyMessagestyled__KeyMessageContent-d162d0-6 hjtBGe"
+    >
+      <h2
+        className="KeyMessagestyled__KeyMessageTitle-d162d0-3 ekaWGT"
+      >
+        Its time for change
+      </h2>
+      <p
+        className="KeyMessagestyled__KeyMessageLeft-d162d0-4 coRVks"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+      </p>
+      <button
+        className="Button-lxhj0a-0 caAbrL"
+        color="white"
+        onClick={[Function]}
+      >
+        LEARN MORE
+      </button>
+    </div>
+    <div
+      className="KeyMessagestyled__KeyMessageContent-d162d0-6 fGUkwG"
+    >
+      <h2
+        className="KeyMessagestyled__KeyMessageTitle-d162d0-3 ekaWGT"
+      >
+        Exercise your freedom
+      </h2>
+      <p
+        className="KeyMessagestyled__KeyMessageRight-d162d0-5 iwCNIn"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+      </p>
+      <button
+        className="Button-lxhj0a-0 caAbrL"
+        color="white"
+        onClick={[Function]}
+      >
+        LEARN MORE
+      </button>
+    </div>
+  </div>
+</div>
+`;

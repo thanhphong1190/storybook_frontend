@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StandardContent renders correctly 1`] = `
+<div
+  className="StandardContentstyles__Container-sc-2x20s6-0 fjzDWf"
+>
+  <div
+    className="globalstyles__Text-sc-1nc69wi-9 jrNbvV"
+    fontWeight="semibold"
+    size="lg"
+  >
+    More Payments & Shopping Icons
+  </div>
+  <div
+    className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+  >
+    Pictures, abstract symbols, materials, and colors are among the ingredients with which a designer or engineer works. To design is to discover relationships and to make arrangements and rearrangements among these ingredients.
+  </div>
+  <div
+    className="globalstyles__Space-sc-1nc69wi-1 QmALU"
+    height={2}
+  />
+  <div
+    className="globalstyles__Text-sc-1nc69wi-9 jrNbvV"
+    fontWeight="semibold"
+    size="lg"
+  >
+    More Payments & Shopping Icons
+  </div>
+  <div
+    className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+  >
+    Pictures, abstract symbols, materials, and colors are among the ingredients with which a designer or engineer works. To design is to discover relationships and to make arrangements and rearrangements among these ingredients.
+  </div>
+</div>
+`;

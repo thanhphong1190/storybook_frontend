@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StandardHero renders correctly 1`] = `
+<section
+  className="StandardHerostyles__Section-sc-173nurp-0 cvViDL"
+>
+  <div
+    className="StandardHerostyles__Container-sc-173nurp-1 heWpyi"
+  >
+    <div
+      className="StandardHerostyles__TitleWrapper-sc-173nurp-2 kFyHRR"
+    >
+      <div
+        className="globalstyles__Text-sc-1nc69wi-9 bpjwgw"
+        color="blue-dark"
+        fontWeight="bold"
+        size="4xl"
+      >
+        Promotion
+      </div>
+    </div>
+    <img
+      className="StandardHerostyles__IMG-sc-173nurp-3 gjoPts"
+      src="/example/home-hero.png"
+    />
+  </div>
+</section>
+`;

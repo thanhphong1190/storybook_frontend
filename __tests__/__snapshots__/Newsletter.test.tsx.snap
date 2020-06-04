@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="Newsletterstyled__NewsletterWrapper-sc-1r5h56e-0 Wjhva"
+>
+  <div
+    className="Newsletterstyled__NewsletterContent-sc-1r5h56e-1 hgkMGq"
+  >
+    <h2
+      className="Newsletterstyled__NewsletterTitle-sc-1r5h56e-2 ftMcxj"
+    >
+      STAY INFORMED
+    </h2>
+    <p
+      className="Newsletterstyled__NewsletterMessage-sc-1r5h56e-3 MXPkq"
+    >
+      Register for regular updates, blogs and Plus Fitness news.
+    </p>
+  </div>
+  <div
+    className="Newsletterstyled__SubscribeFormWrap-sc-1r5h56e-4 dNeUBh"
+  >
+    <input
+      className="globalstyles__TextInput-sc-1nc69wi-7 jfclbV"
+      placeholder="Enter email address"
+    />
+    <button
+      className="Button-lxhj0a-0 eQpnsG"
+      onClick={[Function]}
+    >
+      SUBSCRIBE TO THE NEWSLETTER
+    </button>
+  </div>
+</div>
+`;

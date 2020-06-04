@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`OrangeBanner renders correctly 1`] = `
+<section
+  className="OrangeBannerstyled__OBSection-sc-1su2k9q-0 cQZFjm"
+  style={
+    Object {
+      "backgroundImage": "url('/example/OrangeBanner-bg.png')",
+    }
+  }
+>
+  <div
+    className="OrangeBannerstyled__ContentWerapper-sc-1su2k9q-1 hFBczM bg-orange bg-opacity-75"
+  >
+    <div
+      className="OrangeBannerstyled__Container-sc-1su2k9q-2 gfIOcj"
+    >
+      <div
+        className="OrangeBannerstyled__ImageWrapper-sc-1su2k9q-3 dLNKFa"
+      >
+        <img
+          className="OrangeBannerstyled__Img-sc-1su2k9q-4 kZPVAb"
+          src="/example/OrangeBanner-PHONES.png"
+        />
+      </div>
+      <div
+        className="OrangeBannerstyled__TextContent-sc-1su2k9q-5 cZMQvO"
+      >
+        <div
+          className="OrangeBannerstyled__Title-sc-1su2k9q-6 hvdrOD"
+        >
+          Connect to your fitness goals with the
+        </div>
+        <div
+          className="OrangeBannerstyled__BigTitle-sc-1su2k9q-7 ensjAz"
+        >
+          Plus fitness app
+        </div>
+        <div
+          className="OrangeBannerstyled__Text-sc-1su2k9q-8 greNSB"
+        >
+          The Plus Fitness app provides class schedules, social media platforms, fitness goals, and in-club challenges. Our app will also allow you to link many of the popular fitness tracking devices and fitness apps on the market.
+        </div>
+        <button
+          className="Button-lxhj0a-0 djWYEe"
+          color="blue"
+        >
+          Find our more
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+`;

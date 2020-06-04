@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="Headerstyled__HeaderSection-ihh9tu-6 fHvlyo"
+>
+  <div
+    className="Headerstyled__Container-ihh9tu-0 jUjIsR"
+  >
+    <div
+      className="Headerstyled__CTAGroup-ihh9tu-1 eiCaXq"
+    >
+      <span
+        className="Headerstyled__ActionTitle-ihh9tu-2 erABvG"
+      >
+        Find your plus fitness location
+      </span>
+      <div
+        className="Headerstyled__SearchGroup-ihh9tu-3 jKxLKy"
+      >
+        <input
+          className="globalstyles__TextInput-sc-1nc69wi-7 jfclbV"
+          placeholder="Type your suburb or post code"
+        />
+        <button
+          className="Button-lxhj0a-0 Headerstyled__SearchButton-ihh9tu-7 dxrwLE"
+          color="blue"
+        >
+          Search
+        </button>
+      </div>
+    </div>
+    <div
+      className="Headerstyled__HeaderTitle-ihh9tu-4 cnaWgv"
+    >
+      <span
+        className="Headerstyled__TitleText-ihh9tu-5 juWinu"
+        color="orange"
+      >
+        24/7 open gym - 
+      </span>
+      <span
+        className="Headerstyled__TitleText-ihh9tu-5 gerIAq"
+      >
+        no lock in contracts
+      </span>
+    </div>
+  </div>
+</section>
+`;

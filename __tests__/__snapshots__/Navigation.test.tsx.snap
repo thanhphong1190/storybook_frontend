@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="Navigationstyles__NavigationSection-sc-1p9nwf7-0 cXNqao"
+>
+  <div
+    className="Navigationstyles__Container-sc-1p9nwf7-1 jXvLwT"
+  >
+    <img
+      alt=""
+      className="Navigationstyles__Logo-sc-1p9nwf7-2 evOuXy"
+      src="../src/static/imgs/logo.png"
+    />
+    <img
+      alt=""
+      className="Navigationstyles__MobileLogo-sc-1p9nwf7-3 kUQrRP"
+      src="../src/static/imgs/logo_white.png"
+    />
+    <div
+      className="Navigationstyles__DesktopMenus-sc-1p9nwf7-4 kliXls"
+    >
+      <a
+        className="Navigationstyles__Menu-sc-1p9nwf7-5 eTQbGx"
+        href="#"
+      >
+        Find a Gym
+      </a>
+      <a
+        className="Navigationstyles__Menu-sc-1p9nwf7-5 eTQbGx"
+        href="#"
+      >
+        Memberships
+      </a>
+      <a
+        className="Navigationstyles__Menu-sc-1p9nwf7-5 eTQbGx"
+        href="#"
+      >
+        Our Classes
+      </a>
+      <a
+        className="Navigationstyles__Menu-sc-1p9nwf7-5 eTQbGx"
+        href="#"
+      >
+        Own a Gym
+      </a>
+      <a
+        className="Navigationstyles__Menu-sc-1p9nwf7-5 eTQbGx"
+        href="#"
+      >
+        Careers
+      </a>
+      <a
+        className="Navigationstyles__Menu-sc-1p9nwf7-5 eTQbGx"
+        href="#"
+      >
+        Plus Performance
+      </a>
+      <button
+        className="Navigationstyles__JoinButton-sc-1p9nwf7-7 JPQyD"
+      >
+        Join now
+      </button>
+    </div>
+    <button
+      className="Navigationstyles__MobileMenuButton-sc-1p9nwf7-6 brTmFp"
+      color="orange"
+      onClick={[Function]}
+    >
+      <span
+        className="Iconstyles__StyledSVGIcon-sc-1cwmlu4-0 cSbqKd undefined"
+      />
+    </button>
+    <div
+      className="Navigationstyles__MobileWrapper-sc-1p9nwf7-8 ioHMSn hidden"
+    >
+      <div
+        className="Navigationstyles__HeaderGroup-sc-1p9nwf7-9 hdxuwV"
+      >
+        <img
+          alt=""
+          className="Navigationstyles__MobileLogo-sc-1p9nwf7-3 kUQrRP"
+          src="../src/static/imgs/logo_white.png"
+        />
+        <button
+          className="Navigationstyles__MobileMenuButton-sc-1p9nwf7-6 cYJuKh"
+          onClick={[Function]}
+        >
+          <span
+            className="Iconstyles__StyledSVGIcon-sc-1cwmlu4-0 cSbqKd undefined"
+          />
+        </button>
+      </div>
+      <div
+        className="Navigationstyles__MobileMenusWrapper-sc-1p9nwf7-10 gMfCvY bg-blue bg-opacity-75"
+      >
+        <div
+          className="Navigationstyles__MobileMenus-sc-1p9nwf7-12 ehdNJ"
+        >
+          <div
+            className="Navigationstyles__MobileLinks-sc-1p9nwf7-14 ibZLpY"
+          >
+            <a
+              className="Navigationstyles__MobileLink-sc-1p9nwf7-15 jdnkaK"
+              href="#"
+            >
+              Find a Gym
+            </a>
+            <a
+              className="Navigationstyles__MobileLink-sc-1p9nwf7-15 jdnkaK"
+              href="#"
+            >
+              Memberships
+            </a>
+            <a
+              className="Navigationstyles__MobileLink-sc-1p9nwf7-15 jdnkaK"
+              href="#"
+            >
+              Our Classes
+            </a>
+            <a
+              className="Navigationstyles__MobileLink-sc-1p9nwf7-15 jdnkaK"
+              href="#"
+            >
+              Own a Gym
+            </a>
+            <a
+              className="Navigationstyles__MobileLink-sc-1p9nwf7-15 jdnkaK"
+              href="#"
+            >
+              Careers
+            </a>
+            <a
+              className="Navigationstyles__MobileLink-sc-1p9nwf7-15 jdnkaK"
+              href="#"
+            >
+              Plus Performance
+            </a>
+          </div>
+          <div
+            className="Navigationstyles__MobileButtonWrapper-sc-1p9nwf7-13 dCMfpT"
+          >
+            <button
+              className="Navigationstyles__JoinButton-sc-1p9nwf7-7 JPQyD"
+            >
+              Join now
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="Navigationstyles__MobileActions-sc-1p9nwf7-11 eoIcft"
+      >
+        <section
+          className="Headerstyled__HeaderSection-ihh9tu-6 fHvlyo"
+        >
+          <div
+            className="Headerstyled__Container-ihh9tu-0 jUjIsR"
+          >
+            <div
+              className="Headerstyled__CTAGroup-ihh9tu-1 eiCaXq"
+            >
+              <span
+                className="Headerstyled__ActionTitle-ihh9tu-2 erABvG"
+              >
+                Find your plus fitness location
+              </span>
+              <div
+                className="Headerstyled__SearchGroup-ihh9tu-3 jKxLKy"
+              >
+                <input
+                  className="globalstyles__TextInput-sc-1nc69wi-7 jfclbV"
+                  placeholder="Type your suburb or post code"
+                />
+                <button
+                  className="Button-lxhj0a-0 Headerstyled__SearchButton-ihh9tu-7 dxrwLE"
+                  color="blue"
+                >
+                  Search
+                </button>
+              </div>
+            </div>
+            <div
+              className="Headerstyled__HeaderTitle-ihh9tu-4 cnaWgv"
+            >
+              <span
+                className="Headerstyled__TitleText-ihh9tu-5 juWinu"
+                color="orange"
+              >
+                24/7 open gym -
+              </span>
+              <span
+                className="Headerstyled__TitleText-ihh9tu-5 gerIAq"
+              >
+                no lock in contracts
+              </span>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</section>
+`;

@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="LocationTabstyled__LocationTabWrapper-sc-1lchkd7-0 fhnkrs"
+>
+  <a
+    className="LocationTabstyled__LocationTabItem-sc-1lchkd7-1 ewjASn"
+    onClick={[Function]}
+  >
+    ACT
+  </a>
+  <a
+    className="LocationTabstyled__LocationTabItem-sc-1lchkd7-1 ewjASn"
+    onClick={[Function]}
+  >
+    NSW
+  </a>
+  <a
+    className="LocationTabstyled__LocationTabItem-sc-1lchkd7-1 ewjASn"
+    onClick={[Function]}
+  >
+    QLD
+  </a>
+  <a
+    className="LocationTabstyled__LocationTabItem-sc-1lchkd7-1 ewjASn"
+    onClick={[Function]}
+  >
+    SA
+  </a>
+  <a
+    className="LocationTabstyled__LocationTabItem-sc-1lchkd7-1 ewjASn"
+    onClick={[Function]}
+  >
+    VIC
+  </a>
+  <a
+    className="LocationTabstyled__LocationTabItem-sc-1lchkd7-1 ewjASn"
+    onClick={[Function]}
+  >
+    WA
+  </a>
+</div>
+`;

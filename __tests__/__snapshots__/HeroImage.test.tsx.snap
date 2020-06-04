@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="HeroImagestyled__HeroWrapper-vzwf23-0 GfeIL"
+>
+  <div
+    className="HeroImagestyled__HeroInner-vzwf23-1 crHRFq"
+  >
+    <div
+      className="HeroImagestyled__BannerText-vzwf23-4 fdrzsk"
+    >
+      <h1
+        className="HeroImagestyled__HeroHeading-vzwf23-2 UXJco"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "FREE 3 DAY TRIAL <br /> It's gym time",
+          }
+        }
+      />
+      <p
+        className="HeroImagestyled__HeroDescription-vzwf23-3 hXTBCN"
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "Come and check us out.<br />We know you’ll like what you see!",
+          }
+        }
+      />
+      <button
+        className="Button-lxhj0a-0 eQpnsG"
+        onClick={[Function]}
+      >
+        TRY NOW!
+      </button>
+    </div>
+    <img
+      src="/example/home-hero.png"
+    />
+  </div>
+</div>
+`;

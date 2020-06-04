@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="AuthorBlockstyled__AuthorSection-nrpm2a-0 fFGFPd"
+>
+  <div
+    className="AuthorBlockstyled__AuthorAvatarFrame-nrpm2a-2 klgvKL"
+  >
+    <a
+      className="AuthorBlockstyled__AuthorAvatar-nrpm2a-1 kPZjML"
+    />
+  </div>
+  <div
+    className="AuthorBlockstyled__AuthorInformation-nrpm2a-3 djVNPu"
+  >
+    <h4
+      className="AuthorBlockstyled__AuthorName-nrpm2a-4 hDoxlh"
+    >
+      Jasmine Green
+    </h4>
+    <h6
+      className="AuthorBlockstyled__AuthorBios-nrpm2a-5 eTANDM"
+    >
+      Certificate 3 & 4 in fitness -Punch-fit boxing trainer -Bio-print practitioner
+    </h6>
+    <div
+      className="AuthorBlockstyled__AuthorIntro-nrpm2a-6 cBGRtl"
+    >
+      <p
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "Jasmine is a transformation specialist and has over 5 years experience in the fitness industry as a personal trainer.
+      My first contact with Plus Fitness 24/7 was as a long time member of their health clubs, which have been around for many years and were well known in the Macarthur region. 
+      I have spent my career in business banking and was fortunate enough to have Plus Fitness 24/7 as a client when they made the decision to develop the brand as a franchise. 
+      It was very exciting seeing the process and watch the company sell it's first franchise,
+      and before I knew it they had sold their 50th and so on. I had a relationship with some of the early franchisees and they had such great things to say about their experiences, 
+      I developed a keen interest in the model and contemplated jumping ship many times from business banker to business owner.",
+          }
+        }
+      />
+    </div>
+    <a
+      className="AuthorBlockstyled__ReadButton-nrpm2a-7 ioOqnY"
+      onClick={[Function]}
+    >
+      read more
+    </a>
+  </div>
+</div>
+`;

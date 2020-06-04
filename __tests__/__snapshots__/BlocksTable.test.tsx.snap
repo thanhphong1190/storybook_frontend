@@ -1,0 +1,285 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlocksTable renders correctly 1`] = `
+<section
+  className="BlocksTablestyles__Section-sc-1j09n0t-0 cqBHAs"
+>
+  <div
+    className="BlocksTablestyles__Container-sc-1j09n0t-1 gCrCNi"
+  >
+    <div
+      className="BlocksTablestyles__BlocksWrapper-sc-1j09n0t-2 jHKEPm"
+    >
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 ZCdEx"
+        color="white"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            1
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            You enquire about a Plus Fitness 24/7 Franchise
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 hoDlsa"
+        color="blue"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            2
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            We call you to discuss your completed form
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 ZCdEx"
+        color="white"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            3
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            We provide you with our Budgeting and Projections Tool and full disclosure document
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 hoDlsa"
+        color="blue"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            4
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            After your Q&A Session we confirm your chosen territory is both suitable and available
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 ZCdEx"
+        color="white"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            5
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            Support in selecting and negotiating on a suitable premises
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 hoDlsa"
+        color="blue"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            6
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            DA prepared and then submitted to Council
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 ZCdEx"
+        color="white"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            7
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            Franchisee Induction Training program
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 hoDlsa"
+        color="blue"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            8
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            Building works. At the same time you will also start your Full Presale of Memberships.
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 ZCdEx"
+        color="white"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hJbKKz"
+            color="orange"
+            fontWeight="bold"
+            size="6xl"
+          >
+            9
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 hVBppN"
+            size="md"
+          >
+            Our team will complete your aesthetic fit out and install your gym equipment
+          </div>
+        </div>
+      </div>
+      <div
+        className="BlocksTablestyles__Block-sc-1j09n0t-3 jBynHr"
+        color="orange"
+      >
+        <div
+          className="BlocksTablestyles__BlockNumber-sc-1j09n0t-4 ksADlf"
+        >
+          <div
+            className="globalstyles__Text-sc-1nc69wi-9 jagBpF"
+            color="white"
+            fontWeight="bold"
+            size="6xl"
+          >
+            10
+          </div>
+        </div>
+        <div
+          className="BlocksTablestyles__TextWrapper-sc-1j09n0t-5 cHJOLd"
+        >
+          <div
+            className="BlocksTablestyles__Text-sc-1j09n0t-6 bNtgqp"
+          >
+            YOUR PLUS FITNESS 24/7 GRAND OPENING!
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;

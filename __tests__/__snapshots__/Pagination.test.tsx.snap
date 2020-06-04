@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination renders correctly 1`] = `
+<div
+  className="Paginationstyles__Container-te3eth-0 hSfotK"
+>
+  <div
+    className=""
+  >
+    <ul
+      className=""
+    >
+      <li
+        className="disabled"
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to first page"
+          className="item"
+          href="#"
+        >
+          «
+        </a>
+      </li>
+      <li
+        className="prev disabled"
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to previous page"
+          className="item"
+          href="#"
+        >
+          <span
+            className="Iconstyles__StyledSVGIcon-sc-1cwmlu4-0 cSbqKd undefined"
+          />
+        </a>
+      </li>
+      <li
+        className="bca"
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to page number 1"
+          className="item is-active"
+          href="#"
+        >
+          1
+        </a>
+      </li>
+      <li
+        className=""
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to page number 2"
+          className="item"
+          href="#"
+        >
+          2
+        </a>
+      </li>
+      <li
+        className=""
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to page number 3"
+          className="item"
+          href="#"
+        >
+          3
+        </a>
+      </li>
+      <li
+        className=""
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to page number 4"
+          className="item"
+          href="#"
+        >
+          4
+        </a>
+      </li>
+      <li
+        className=""
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to page number 5"
+          className="item"
+          href="#"
+        >
+          5
+        </a>
+      </li>
+      <li
+        className="next"
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to next page"
+          className="item"
+          href="#"
+        >
+          <span
+            className="Iconstyles__StyledSVGIcon-sc-1cwmlu4-0 cSbqKd undefined"
+          />
+        </a>
+      </li>
+      <li
+        className=""
+        onClick={[Function]}
+      >
+        <a
+          aria-label="Go to last page"
+          className="item"
+          href="#"
+        >
+          »
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

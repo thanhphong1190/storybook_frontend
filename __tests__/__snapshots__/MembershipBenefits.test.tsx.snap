@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Membership benefits renders correctly 1`] = `
+<section
+  className="MembershipBenefitsstyles__Section-sc-9ajgpb-0 zcvVr"
+>
+  <div
+    className="MembershipBenefitsstyles__Container-sc-9ajgpb-1 exAHc"
+  >
+    <div
+      className="MembershipBenefitsstyles__TitleWrapper-sc-9ajgpb-3 iWYBSd"
+    >
+      <div
+        className="globalstyles__Text-sc-1nc69wi-9 dBcsmZ"
+        color="orange"
+        fontWeight="bold"
+        size="4xl"
+      >
+        Membership benefits
+      </div>
+      <hr
+        className="globalstyles__Underline-sc-1nc69wi-8 gfaeFo"
+        color="blue"
+      />
+    </div>
+    <div
+      className="MembershipBenefitsstyles__TextWrapper-sc-9ajgpb-4 fPZvhX"
+    >
+      <div
+        className="globalstyles__Text-sc-1nc69wi-9 dvGdRc"
+        color="white"
+      >
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+      </div>
+    </div>
+    <div
+      className="MembershipBenefitsstyles__BenefitsContainer-sc-9ajgpb-5 lomQdr"
+    >
+      <div
+        className="MembershipBenefitsstyles__BenefitsWrapper-sc-9ajgpb-6 dROzFS"
+      >
+        <div
+          className="MembershipBenefitsstyles__Benefit-sc-9ajgpb-7 cysZvh"
+        >
+          <div
+            className="MembershipBenefitsstyles__ImgWrapper-sc-9ajgpb-8 iaKkPN"
+          >
+            <img
+              className="MembershipBenefitsstyles__Img-sc-9ajgpb-2 kPKlve"
+              src="/example/benefits/strength-cardio-equipment.original.png"
+            />
+          </div>
+          <span
+            className="MembershipBenefitsstyles__BenefitText-sc-9ajgpb-9 cDTXJl"
+          >
+            All Strength & Cardio Equipments
+          </span>
+        </div>
+        <div
+          className="MembershipBenefitsstyles__Benefit-sc-9ajgpb-7 cysZvh"
+        >
+          <div
+            className="MembershipBenefitsstyles__ImgWrapper-sc-9ajgpb-8 iaKkPN"
+          >
+            <img
+              className="MembershipBenefitsstyles__Img-sc-9ajgpb-2 kPKlve"
+              src="/example/benefits/unlimited-virtual-classes.png"
+            />
+          </div>
+          <span
+            className="MembershipBenefitsstyles__BenefitText-sc-9ajgpb-9 cDTXJl"
+          >
+            Unlimited Virtual Classes
+          </span>
+        </div>
+        <div
+          className="MembershipBenefitsstyles__Benefit-sc-9ajgpb-7 cysZvh"
+        >
+          <div
+            className="MembershipBenefitsstyles__ImgWrapper-sc-9ajgpb-8 iaKkPN"
+          >
+            <img
+              className="MembershipBenefitsstyles__Img-sc-9ajgpb-2 kPKlve"
+              src="/example/benefits/24-7.original.png"
+            />
+          </div>
+          <span
+            className="MembershipBenefitsstyles__BenefitText-sc-9ajgpb-9 cDTXJl"
+          >
+            24 hr access, 7 Days a Week
+          </span>
+        </div>
+        <div
+          className="MembershipBenefitsstyles__Benefit-sc-9ajgpb-7 cysZvh"
+        >
+          <div
+            className="MembershipBenefitsstyles__ImgWrapper-sc-9ajgpb-8 iaKkPN"
+          >
+            <img
+              className="MembershipBenefitsstyles__Img-sc-9ajgpb-2 kPKlve"
+              src="/example/benefits/no-lock-in-contracts.original.png"
+            />
+          </div>
+          <span
+            className="MembershipBenefitsstyles__BenefitText-sc-9ajgpb-9 cDTXJl"
+          >
+            No Lock In Contracts
+          </span>
+        </div>
+        <div
+          className="MembershipBenefitsstyles__Benefit-sc-9ajgpb-7 cysZvh"
+        >
+          <div
+            className="MembershipBenefitsstyles__ImgWrapper-sc-9ajgpb-8 iaKkPN"
+          >
+            <img
+              className="MembershipBenefitsstyles__Img-sc-9ajgpb-2 kPKlve"
+              src="/example/benefits/free-fitness-program.original.png"
+            />
+          </div>
+          <span
+            className="MembershipBenefitsstyles__BenefitText-sc-9ajgpb-9 cDTXJl"
+          >
+            FREE Fitness Programs
+          </span>
+        </div>
+        <div
+          className="MembershipBenefitsstyles__Benefit-sc-9ajgpb-7 cysZvh"
+        >
+          <div
+            className="MembershipBenefitsstyles__ImgWrapper-sc-9ajgpb-8 iaKkPN"
+          >
+            <img
+              className="MembershipBenefitsstyles__Img-sc-9ajgpb-2 kPKlve"
+              src="/example/benefits/access.original.png"
+            />
+          </div>
+          <span
+            className="MembershipBenefitsstyles__BenefitText-sc-9ajgpb-9 cDTXJl"
+          >
+            Access all 180+ gyms in AU & NZ
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;

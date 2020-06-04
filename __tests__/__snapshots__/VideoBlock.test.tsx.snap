@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="VideoBlockstyled__VideoWrapper-hfhlfy-0 gedKOy"
+>
+  <div
+    className="VideoBlockstyled__PlayerWrapper-hfhlfy-1 hMDjlQ"
+  >
+    <h2
+      className="VideoBlockstyled__VideoTitle-hfhlfy-2 eurhR"
+    >
+      BECOME A MEMBER
+    </h2>
+    <a
+      className="VideoBlockstyled__PlayButtonWrap-hfhlfy-4 jiqxxZ"
+      onClick={[Function]}
+    >
+      <img
+        src="test-file-stub"
+      />
+    </a>
+    <p
+      className="VideoBlockstyled__VideoDescription-hfhlfy-3 dFiQeE"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "orem ipsum dolor sit amet, consectetur<br />adipiscing elit, sed do eiusmod tempor",
+        }
+      }
+    />
+  </div>
+  <div
+    className="VideoBlockstyled__PlayerWrapper-hfhlfy-1 jdqQgN"
+  >
+    <h2
+      className="VideoBlockstyled__VideoTitle-hfhlfy-2 eurhR"
+    >
+      OWN A GYM
+    </h2>
+    <a
+      className="VideoBlockstyled__PlayButtonWrap-hfhlfy-4 jiqxxZ"
+      onClick={[Function]}
+    >
+      <img
+        src="test-file-stub"
+      />
+    </a>
+    <p
+      className="VideoBlockstyled__VideoDescription-hfhlfy-3 dFiQeE"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "Kathy Cummings<br />Plus fitness franchisee",
+        }
+      }
+    />
+  </div>
+</div>
+`;

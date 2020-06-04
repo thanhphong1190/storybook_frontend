@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="Bannerstyled__BannerSection-wymwyn-0 dVQukg"
+>
+  <div
+    className="Bannerstyled__Container-wymwyn-1 bJgqCs"
+  >
+    <div
+      className="Bannerstyled__DesktopView-wymwyn-4 ityAf"
+    >
+      <img
+        className="Bannerstyled__AdImage-wymwyn-2 kojopC"
+        src="/example/banner-bg-example.png"
+      />
+      <div
+        className="Bannerstyled__ContentWrapper-wymwyn-3 dyITAE hover:bg-orange hover:bg-opacity-75"
+      >
+        <span
+          className="Bannerstyled__Title-wymwyn-7 jWjdLB"
+        >
+          Promotion
+        </span>
+        <span
+          className="Bannerstyled__Content-wymwyn-8 kXnLFy"
+        >
+          Free week of fitness
+        </span>
+        <a
+          className="Button__ButtonLink-lxhj0a-1 eZiind"
+          color="blue"
+          href="#"
+        >
+          Enquire now
+        </a>
+      </div>
+    </div>
+    <div
+      className="Bannerstyled__MobileView-wymwyn-5 kwSgDz"
+      style={
+        Object {
+          "backgroundImage": "url('/example/banner-bg-example.png')",
+        }
+      }
+    >
+      <div
+        className="Bannerstyled__MobileContainer-wymwyn-6 issnzp bg-opacity-75 bg-orange"
+      >
+        <span
+          className="Bannerstyled__Title-wymwyn-7 jWjdLB"
+        >
+          Promotion
+        </span>
+        <span
+          className="Bannerstyled__Content-wymwyn-8 kXnLFy"
+        >
+          Free week of fitness
+        </span>
+        <div
+          className="Bannerstyled__ButtonWrapper-wymwyn-9 cLMRVy"
+        >
+          <a
+            className="Button__ButtonLink-lxhj0a-1 eZiind"
+            color="blue"
+            href="#"
+          >
+            Enquire now
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;

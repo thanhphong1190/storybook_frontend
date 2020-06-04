@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ReadyStartedBlocks renders correctly 1`] = `
+<section
+  className="ReadyStartedBlocksstyles__Section-sc-14xu6dg-0 gWJzDe"
+>
+  <div
+    className="ReadyStartedBlocksstyles__Container-sc-14xu6dg-1 igEEQg"
+  >
+    <div
+      className="ReadyStartedBlocksstyles__BlocksWrapper-sc-14xu6dg-2 jOFlxR"
+    >
+      <div
+        className="ReadyStartedBlocksstyles__Block-sc-14xu6dg-3 gjTnzi"
+        color="blue-dark"
+      >
+        <a
+          className="ReadyStartedBlocksstyles__LinkWrapper-sc-14xu6dg-4 gntxaK"
+          href="#"
+        >
+          <div
+            className="ReadyStartedBlocksstyles__ImgWrapper-sc-14xu6dg-5 jOfCOE"
+          >
+            <img
+              className="ReadyStartedBlocksstyles__IMG-sc-14xu6dg-6 gNkMXj"
+              src="/example/Ready-started-blocks/icon-brochure.png"
+            />
+          </div>
+          <span
+            className="ReadyStartedBlocksstyles__Text-sc-14xu6dg-7 cxulkE"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "Download<br/>E-brochure",
+              }
+            }
+          />
+        </a>
+      </div>
+      <div
+        className="ReadyStartedBlocksstyles__Block-sc-14xu6dg-3 cNjtRa"
+        color="blue"
+      >
+        <a
+          className="ReadyStartedBlocksstyles__LinkWrapper-sc-14xu6dg-4 gntxaK"
+          href="#"
+        >
+          <div
+            className="ReadyStartedBlocksstyles__ImgWrapper-sc-14xu6dg-5 jOfCOE"
+          >
+            <img
+              className="ReadyStartedBlocksstyles__IMG-sc-14xu6dg-6 gNkMXj"
+              src="/example/Ready-started-blocks/icon-find.png"
+            />
+          </div>
+          <span
+            className="ReadyStartedBlocksstyles__Text-sc-14xu6dg-7 cxulkE"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "Find a<br/> Franchise",
+              }
+            }
+          />
+        </a>
+      </div>
+      <div
+        className="ReadyStartedBlocksstyles__Block-sc-14xu6dg-3 eCIcVp"
+        color="orange"
+      >
+        <a
+          className="ReadyStartedBlocksstyles__LinkWrapper-sc-14xu6dg-4 gntxaK"
+          href="#"
+        >
+          <div
+            className="ReadyStartedBlocksstyles__ImgWrapper-sc-14xu6dg-5 jOfCOE"
+          >
+            <img
+              className="ReadyStartedBlocksstyles__IMG-sc-14xu6dg-6 gNkMXj"
+              src="/example/Ready-started-blocks/icon-enquire.png"
+            />
+          </div>
+          <span
+            className="ReadyStartedBlocksstyles__Text-sc-14xu6dg-7 cxulkE"
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "Enquire Now",
+              }
+            }
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+`;

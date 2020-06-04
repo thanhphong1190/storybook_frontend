@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="LocationCardstyled__LocationCardStyled-sc-1911q6a-0 bESBYz"
+>
+  <a
+    className="LocationCardstyled__LocationInfo-sc-1911q6a-2 cvFSzO"
+    href="/"
+    target="_blank"
+  >
+    <h6
+      className="LocationCardstyled__LocationCardTitle-sc-1911q6a-1 hVAMfS"
+    >
+      Albion Park
+    </h6>
+    <p>
+      Unit 4, 9 Durgadin Drive, Albion Park Rial NSW 2527
+    </p>
+    <span>
+      02 4257 0340
+    </span>
+  </a>
+  <div
+    className="LocationCardstyled__LocationFeatures-sc-1911q6a-3 dYSjEI"
+  >
+    
+    <a
+      className="LocationCardstyled__FeatureIcon-sc-1911q6a-4 emYVaS"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+    />
+    <a
+      className="LocationCardstyled__FeatureIcon-sc-1911q6a-4 emYVaS"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+    />
+    <a
+      className="LocationCardstyled__FeatureIcon-sc-1911q6a-4 emYVaS"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+    />
+    <a
+      className="LocationCardstyled__FeatureIcon-sc-1911q6a-4 emYVaS"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+    />
+    <a
+      className="LocationCardstyled__FeatureIcon-sc-1911q6a-4 emYVaS"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+    />
+    <a
+      className="LocationCardstyled__FeatureIcon-sc-1911q6a-4 emYVaS"
+      onMouseLeave={[Function]}
+      onMouseOver={[Function]}
+    />
+  </div>
+</div>
+`;
